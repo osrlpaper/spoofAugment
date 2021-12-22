@@ -5,4 +5,4 @@ As mentioned in the paper, this repository provides a curated battery of audio a
 
 Random visualization of some of the spoof augmentations:
 
-![](/examples/Spoof_Augmentations.pdf)
+![](/examples/Spoof_Augmentations.png)

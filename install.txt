@@ -1,0 +1,16 @@
+#Tensorflow and tensorflow-addons are only used in SpecAugment. So, you can skip them and comment their import if you don't plan to use specAugment
+#These are the packages and how to install them:
+conda create --name augEnv python=3.8
+conda activate augEnv
+conda install jupyter notebook
+conda install -c conda-forge tensorflow-gpu
+conda install -c conda-forge pydub
+pip install opencv-python
+conda install -c conda-forge librosa
+conda install -c conda-forge libsndfile==1.0.28
+conda install -c anaconda pandas
+pip install sox
+pip install pyroomacoustics
+pip install tensorflow-addons==0.9.1
+pip install glob2
+conda install numpy
